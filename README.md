@@ -10,7 +10,7 @@
   - [Predicting Diabetes with Machine Learning](https://github.com/joshmadakor1/Sentinel-Lab)
   - [???](https://github.com/joshmadakor1/Jwipe.PowerShell)
 - <b>SQL</b>
-  - [huolto](https://github.com/joshmadakor1/EncrypterPOC)
+  - [Car Mainetenance Database](https://github.com/helmitee/Tietokannat)
 - <b>React</b>
   - [weather app](https://github.com/joshmadakor1/EncrypterPOC)
 
