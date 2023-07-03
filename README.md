@@ -11,6 +11,9 @@
   - [???](https://github.com/joshmadakor1/Jwipe.PowerShell)
 - <b>SQL</b>
   - [huolto](https://github.com/joshmadakor1/EncrypterPOC)
+- <b>React</b>
+  - [wearher app](https://github.com/joshmadakor1/EncrypterPOC)
+
 
 
 
