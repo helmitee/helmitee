@@ -3,7 +3,7 @@
 <h2>Projects:</h2>
 
 - <b>Campaign page (HTML, CSS, Javascript)</b>
-  - [Suomeksi sanottuna](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Suomeksi sanottuna](https://github.com/helmitee/SuomeksiSanottuna)
 - <b>Scala</b>
   - [Lost at Kandidaattikeskus](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
 - <b>Python</b>
