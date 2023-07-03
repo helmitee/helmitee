@@ -12,7 +12,7 @@
 - <b>SQL</b>
   - [huolto](https://github.com/joshmadakor1/EncrypterPOC)
 - <b>React</b>
-  - [wearher app](https://github.com/joshmadakor1/EncrypterPOC)
+  - [weather app](https://github.com/joshmadakor1/EncrypterPOC)
 
 
 
