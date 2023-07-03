@@ -2,7 +2,7 @@
 
 <h2>Projects:</h2>
 
-- <b>Campaign page (React, Javascript)</b>
+- <b>Campaign page (HTML, CSS, Javascript)</b>
   - [Suomeksi sanottuna](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>Scala</b>
   - [Lost at Kandidaattikeskus](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
