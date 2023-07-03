@@ -5,7 +5,7 @@
 - <b>Campaign page (HTML, CSS, Javascript)</b>
   - [Suomeksi sanottuna](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>Scala</b>
-  - [Lost at Kandidaattikeskus](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
+  - [Lost at Kandidaattikeskus](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
 - <b>Python</b>
   - [Predicting Diabetes with Machine Learning](https://github.com/joshmadakor1/Sentinel-Lab)
   - [???](https://github.com/joshmadakor1/Jwipe.PowerShell)
