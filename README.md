@@ -8,7 +8,7 @@
   - [Lost at Kandidaattikeskus](https://github.com/helmitee/LostAtKandidaattikeskus)
   - [Sudoku Solver](https://github.com/helmitee/LostAtKandidaattikeskus)
 - <b>Python</b>
-  - [Predicting Diabetes with Machine Learning](https://github.com/joshmadakor1/Sentinel-Lab)
+  - [Predicting Diabetes with Machine Learning](https://github.com/helmitee/PredictingDiabetes)
   - [???](https://github.com/helmitee)
 - <b>SQL</b>
   - [Car Mainetenance Database](https://github.com/helmitee/Tietokannat)
