@@ -6,6 +6,7 @@
   - [Suomeksi sanottuna](https://github.com/helmitee/SuomeksiSanottuna)
 - <b>Scala</b>
   - [Lost at Kandidaattikeskus](https://github.com/helmitee/LostAtKandidaattikeskus)
+  - [Sudoku Solver](https://github.com/helmitee/LostAtKandidaattikeskus)
 - <b>Python</b>
   - [Predicting Diabetes with Machine Learning](https://github.com/joshmadakor1/Sentinel-Lab)
   - [???](https://github.com/helmitee)
