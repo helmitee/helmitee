@@ -5,14 +5,14 @@
 - <b>Campaign page (HTML, CSS, Javascript)</b>
   - [Suomeksi sanottuna](https://github.com/helmitee/SuomeksiSanottuna)
 - <b>Scala</b>
-  - [Lost at Kandidaattikeskus](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
+  - [Lost at Kandidaattikeskus](https://github.com/helmitee/LostAtKandidaattikeskus)
 - <b>Python</b>
   - [Predicting Diabetes with Machine Learning](https://github.com/joshmadakor1/Sentinel-Lab)
-  - [???](https://github.com/joshmadakor1/Jwipe.PowerShell)
+  - [???](https://github.com/helmitee)
 - <b>SQL</b>
   - [Car Mainetenance Database](https://github.com/helmitee/Tietokannat)
 - <b>React</b>
-  - [weather app](https://github.com/joshmadakor1/EncrypterPOC)
+  - [weather app](https://github.com/helmitee)
 
 
 
@@ -24,10 +24,10 @@
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-[twitter]: https://twitter.com/joshmadakor
-[youtube]: https://www.youtube.com/c/joshmadakor
-[instagram]: https://www.instagram.com/joshmadakor/
-[linkedin]: https://linkedin.com/in/joshmadakor
+[twitter]: https://twitter.com/
+[youtube]: https://www.youtube.com/
+[instagram]: https://www.instagram.com/
+[linkedin]: https://linkedin.com/
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
