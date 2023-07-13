@@ -11,7 +11,7 @@
 - <b>SQL</b>
   - [Car Mainetenance Database](https://github.com/helmitee/Tietokannat)
 - <b>React</b>
-  - [weather app](https://github.com/helmitee)
+  - [To Do List](https://github.com/helmitee)
 
 
 
