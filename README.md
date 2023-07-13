@@ -1,4 +1,4 @@
-<h1>Hi, I'm Helmi! <br/> Have a look at my previous projects!</h1>
+<h1>Hi, <br/> Have a look at my previous projects!</h1>
 
 <h2>Projects:</h2>
 
